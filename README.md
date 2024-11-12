@@ -1,4 +1,4 @@
-# Performance
+# Parsing Benchmark
 
 | Method     | Mean       | Error    | StdDev   |
 |----------- |-----------:|---------:|---------:|
